@@ -1,149 +1,149 @@
 # Blog Schedule Nyc-Mhtn-Web-091718
 
 
-##Tuesday, October 2nd
+## Tuesday, October 2nd
 * Casey
 * Scoti
 * Brennan
 
-##Wednesday October 3rd
+## Wednesday October 3rd
 * Shawna
 * Max
 * Mike
 
 
-##Thursday, October 4th
+## Thursday, October 4th
 * Shelby
 * Tiffany
 * Roger
 
 
 
-##Tuesday, October 9th
+## Tuesday, October 9th
 * Albert
 * Chris S 
 * Eric
 * Friday
 
-##Wednesday October 10th
+## Wednesday October 10th
 * JT
 * Omar
 * Devon
 * Asaf
 
-##Thursday, October 11th
+## Thursday, October 11th
 * Kris
 * Daniel
 * Zeshawn
 * Anna
 
 
-##Tuesday, October 16th
+## Tuesday, October 16th
 * Casey
 * Scoti
 * Brennan
 
-##Wednesday October 17th
+## Wednesday October 17th
 * Shawna
 * Max
 * Mike
 
-##Thursday, October 18h
+## Thursday, October 18h
 * Shelby
 * Tiffany
 * Roger
 
 
-##Tuesday, October 23th
+## Tuesday, October 23th
 * Albert
 * Chris S 
 * Eric
 * Friday
 
-##Wednesday October 24th
+## Wednesday October 24th
 * JT
 * Omar
 * Devon
 * Asaf
 
-##Thursday, October 25th
+## Thursday, October 25th
 * Kris
 * Daniel
 * Zeshawn
 * Anna
 
 
-##Tuesday, October 30th
+## Tuesday, October 30th
 * Casey
 * Scoti
 * Brennan
 
 
-##Wednesday October 31st
+## Wednesday October 31st
 * Shawna
 * Max
 * Mike
 
 
-##Thursday, November 1st
+## Thursday, November 1st
 * Shelby
 * Tiffany
 * Roger
 
 
-##Tuesday, November 6th
+## Tuesday, November 6th
 * Albert
 * Chris S 
 * Eric
 * Friday
 
 
-##Wednesday November 7th
+## Wednesday November 7th
 * JT
 * Omar
 * Devon
 * Asaf
 
-##Thursday, November 8th
+## Thursday, November 8th
 * Kris
 * Daniel
 * Zeshawn
 * Anna
 
 
-##Tuesday, November 13th
+## Tuesday, November 13th
 * Casey
 * Scoti
 * Brennan
 
 
-##Wednesday November 14th
+## Wednesday November 14th
 * Shawna
 * Max
 * Mike
 
-##Thursday, November 15th
+## Thursday, November 15th
 * Shelby
 * Tiffany
 * Roger
 
-##Thanks giving week off
+## Thanks giving week off
 
 
-##Tuesday, November 27th
+## Tuesday, November 27th
 * Albert
 * Chris S 
 * Eric
 * Friday
 
-##Wednesday November 28th
+## Wednesday November 28th
 * JT
 * Omar
 * Devon
 * Asaf
 
 
-##Thursday, November 29th
+## Thursday, November 29th
 * Kris
 * Daniel
 * Zeshawn
@@ -151,35 +151,35 @@
 
 
 
-##Tuesday, November 27th
+## Tuesday, November 27th
 * Casey
 * Scoti
 * Brennan
 
-##Wednesday November 28th
+## Wednesday November 28th
 * Shawna
 * Max
 * Mike
 
-##Thursday, November 29th
+## Thursday, November 29th
 * Shelby
 * Tiffany
 * Roger
 
 
-##Tuesday, December 4th
+## Tuesday, December 4th
 * Albert
 * Chris S 
 * Eric
 * Friday
 
-##Wednesday December 5th
+## Wednesday December 5th
 * JT
 * Omar
 * Devon
 * Asaf
 
-##Thursday, December 6th
+## Thursday, December 6th
 * Kris
 * Daniel
 * Zeshawn
