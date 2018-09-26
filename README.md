@@ -127,7 +127,7 @@
 * Tiffany
 * Roger
 
-## Thanks giving week off
+## Thanksgiving week NO BLOGS!
 
 
 ## Tuesday, November 27th
