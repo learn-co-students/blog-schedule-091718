@@ -151,35 +151,35 @@
 
 
 
-## Tuesday, November 27th
+## Tuesday, December 4th
 * Casey
 * Scoti
 * Brennan
 
-## Wednesday November 28th
+## Wednesday December 5th
 * Shawna
 * Max
 * Mike
 
-## Thursday, November 29th
+## Thursday, December 6th
 * Shelby
 * Tiffany
 * Roger
 
 
-## Tuesday, December 4th
+## Tuesday, December 11th
 * Albert
 * Chris S 
 * Eric
 * Friday
 
-## Wednesday December 5th
+## Wednesday December 12th
 * JT
 * Omar
 * Devon
 * Asaf
 
-## Thursday, December 6th
+## Thursday, December 13th
 * Kris
 * Daniel
 * Zeshawn
