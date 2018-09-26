@@ -23,7 +23,7 @@
 * Albert
 * Chris S 
 * Eric
-* Friday
+* Frida
 
 ## Wednesday October 10th
 * JT
@@ -58,7 +58,7 @@
 * Albert
 * Chris S 
 * Eric
-* Friday
+* Frida
 
 ## Wednesday October 24th
 * JT
@@ -95,7 +95,7 @@
 * Albert
 * Chris S 
 * Eric
-* Friday
+* Frida
 
 
 ## Wednesday November 7th
@@ -134,7 +134,7 @@
 * Albert
 * Chris S 
 * Eric
-* Friday
+* Frida
 
 ## Wednesday November 28th
 * JT
@@ -171,7 +171,7 @@
 * Albert
 * Chris S 
 * Eric
-* Friday
+* Frida
 
 ## Wednesday December 12th
 * JT
