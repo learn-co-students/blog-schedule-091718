@@ -118,7 +118,6 @@
 
 
 ## Wednesday November 14th
-* Shawna
 * Max
 * Mike
 
@@ -133,6 +132,7 @@
 ## Tuesday, November 27th
 * Albert
 * Chris S 
+* Shawna
 * Eric
 * Frida
 
