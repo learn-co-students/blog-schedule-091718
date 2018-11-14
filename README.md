@@ -118,19 +118,19 @@
 
 
 ## Wednesday November 14th
-
+No Blogs today
 
 
 ## Thursday, November 15th
 * Shelby
 * Tiffany
 * Roger
+* Max
 
 
 ## Tuesday, November 20th
 * Shawna
 * Mike
-* Max
 
 
 ## Tuesday, November 27th
