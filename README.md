@@ -118,21 +118,24 @@
 
 
 ## Wednesday November 14th
-* Max
-* Mike
+
+
 
 ## Thursday, November 15th
 * Shelby
 * Tiffany
 * Roger
 
-## Thanksgiving week NO BLOGS!
+
+## Tuesday, November 20th
+* Shawna
+* Mike
+* Max
 
 
 ## Tuesday, November 27th
 * Albert
 * Chris S 
-* Shawna
 * Eric
 * Frida
 
